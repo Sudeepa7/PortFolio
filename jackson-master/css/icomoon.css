@@ -1383,6 +1383,9 @@
 .icon-bulb:before {
   content: "\e90e";
 }
+.icon-sphere:before {
+  content: "\e9c9";
+}
 .icon-pen2:before {
   content: "\e90f";
 }
